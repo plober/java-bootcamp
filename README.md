@@ -104,7 +104,7 @@ Developers that move faster than average can go ahead and complete as much exerc
 
 4. Create your own [GitHub](https://github.com/) account. Follow this [guideline](https://help.github.com/articles/set-up-git) to setup your account. Also you can read further about Git in [Try Git](https://try.github.io/levels/1/challenges/1) or [Learn Git Branching](http://pcottle.github.io/learnGitBranching/)
 
-5. Fork this repo https://github.com/juanpablopizarro/java-bootcamp to use as a base to host the project code.
+5. Fork this repo https://github.com/gastonabastoG/java-bootcamp to use as a base to host the project code.
 
 → [index](#index)
 
@@ -129,7 +129,7 @@ Every person participating in the bootcamp is present here (students, tutors and
 
 6. All code and documentation must be in English.
 
-7. Code must adhere to this [eclipse code formatter](https://github.com/juanpablopizarro/java-bootcamp/blob/master/formatter.xml).
+7. Code must adhere to this [eclipse code formatter](https://github.com/gastonabastoG/java-bootcamp/blob/master/formatter.xml).
 
 → [index](#index)
 
