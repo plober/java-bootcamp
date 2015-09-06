@@ -104,6 +104,7 @@ Developers that move faster than average can go ahead and complete as much exerc
 
 4. Create your own [GitHub](https://github.com/) account. Follow this [guideline](https://help.github.com/articles/set-up-git) to setup your account. Also you can read further about Git in [Try Git](https://try.github.io/levels/1/challenges/1) or [Learn Git Branching](http://pcottle.github.io/learnGitBranching/)
 
+  [Git manual] (https://www.atlassian.com/git/tutorials/setting-up-a-repository/)
 5. Fork this repo https://github.com/gastonabastoG/java-bootcamp to use as a base to host the project code.
 
 → [index](#index)
@@ -161,8 +162,8 @@ You will commit all your code on a daily basis, when you finish your practice.
 
 ### Introduction
 
-  - [JVM - I](http://www.aprenderaprogramar.com/index.php?option=com_content&view=article&id=392:la-maquina-virtual-java-jvm-o-java-virtual-machine-compilador-e-interprete-bytecode-cu00611b&catid=68:curso-aprender-programacion-java-desde-cero&Itemid=188)
-  - [JVM - II](http://www.oracle.com/webfolder/technetwork/tutorials/obe/java/gc01/index.html)
+  - [JVM o Java Virtual Machine](http://www.aprenderaprogramar.com/index.php?option=com_content&view=article&id=392:la-maquina-virtual-java-jvm-o-java-virtual-machine-compilador-e-interprete-bytecode-cu00611b&catid=68:curso-aprender-programacion-java-desde-cero&Itemid=188)
+  - [JVM - Java Garbage Collection Basics](http://www.oracle.com/webfolder/technetwork/tutorials/obe/java/gc01/index.html)
 
 
 ####Topic 0: Introduction to Object Oriented Programming Concepts (1 day)####
