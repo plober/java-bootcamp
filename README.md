@@ -106,7 +106,7 @@ Developers that move faster than average can go ahead and complete as much exerc
 
   [Git manual] (https://www.atlassian.com/git/tutorials/setting-up-a-repository/)
   
-  Git GUIs: [Source Tree] (https://www.sourcetreeapp.com/) Windows - [SmartGit] (http://www.syntevo.com/smartgit/download)
+  Git GUIs: [Source Tree] (https://www.sourcetreeapp.com/) Windows - [SmartGit] (http://www.syntevo.com/smartgit/download) Linux
 
 5. Fork this repo https://github.com/gastonabastoG/java-bootcamp to use as a base to host the project code.
 
