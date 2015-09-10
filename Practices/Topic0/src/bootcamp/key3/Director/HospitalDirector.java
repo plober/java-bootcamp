@@ -6,8 +6,8 @@ import bootcamp.key3.Producto.Hospital;
 
 public class HospitalDirector {
 	/**
-	 * @param builder who build a house.
-	 * @return a brand new House
+	 * @param builder who build a hospital.
+	 * @return a brand new Hospital
 	 */
 	public Hospital constructHospital(HospitalBuilder builder) {
 		Hospital hospital= builder.createHospital();
