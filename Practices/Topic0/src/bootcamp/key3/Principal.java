@@ -1,8 +1,8 @@
 package bootcamp.key3;
 
-import bootcamp.key3.Concrete.Publico;
-import bootcamp.key3.Concrete.Privado;
 import bootcamp.key3.Producto.Hospital;
+import bootcamp.key3.Producto.Privado;
+import bootcamp.key3.Producto.Publico;
 
 
 public class Principal {

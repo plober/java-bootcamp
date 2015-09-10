@@ -3,8 +3,8 @@ package bootcamp.key3.Builder;
 import java.util.ArrayList;
 import java.util.List;
 
-import bootcamp.key3.Concrete.Privado;
 import bootcamp.key3.Producto.Hospital;
+import bootcamp.key3.Producto.Privado;
 import bootcamp.key3.Producto.Sector;
 
 public class PrivadoBuilder extends HospitalBuilder{
