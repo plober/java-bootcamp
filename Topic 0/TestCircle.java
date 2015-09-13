@@ -9,5 +9,13 @@ public class TestCircle { //Naming after the function is nothing new to me. Octa
 		Circle c2 = new Circle(5.0);
 		System.out.println("The circle c2 has a radius of "
 				+ c2.getRadius() + " and an area of " + c2.getArea());
+
+		//Testing Plobermades
+		Circle c3 = new Circle();
+		System.out.println("Initial Radius: " + c3.getRadius());
+		System.out.println("Initial Color: " + c3.getColor());
+		c3.setRadius(2.0);c3.setColor("Greenish Pink");
+		System.out.println("New Radius: " + c3.getRadius());
+		System.out.println("New Color: " + c3.getColor());
 	}
 }

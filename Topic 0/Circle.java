@@ -17,13 +17,33 @@ public class Circle{ // previously 'touched' the cicle.java from command line. S
 		color = "red";
 	}
 	
+	// yet a third constructor, plobermade to use the color (so Eclipse quits complaining)
+	public Circle(double ronco, String Octarine) {
+		radius = ronco;
+		color = Octarine;
+	}
+	
 	// Public method for GETTING the radius
 	public double getRadius() {
 		return radius;
 	}
 	
+	// Public getter of color
+	public String getColor() {
+		return color;
+	}
+	
 	//Public method for computing the area of the circle
 	public double getArea(){
 		return radius*radius*Math.PI;
+	}
+	
+	//Public method for setting a different radius after previously set
+	public void setRadius(double r){
+		radius = r;
+	}
+	//Public ctral+space insert color "previously set" ;)
+	public void setColor(String Octarine){
+		color = Octarine;
 	}
 }
