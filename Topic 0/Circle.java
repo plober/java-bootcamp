@@ -5,7 +5,8 @@ public class Circle{ // previously 'touched' the cicle.java from command line. S
 							//from here instead from the Constructor?
 	
 	// Also, What's the deal with the semicolons? I can't find any place that says how ::obviously:: important they are.
-	// First constructor, by defaults 
+	// Been told that they are used to parse. I //knew// that, I'm just wondering //what's the deal// 
+	// First constructor, using defaults 
 	public Circle() {
 		radius = 1.0; //Yeah, I got it. Doubles have decimals. Yay. -_-'
 		color = "red";
