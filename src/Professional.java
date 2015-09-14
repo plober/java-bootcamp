@@ -1,10 +1,12 @@
-public class Professionals{ //Doctors, nurses, handymen, etc
+public class Professional{ //Doctors, nurses, handymen, etc
 	private String name; //apparently, variables can be initialized with a value already :)
 	private String profession;
-	private byte age;
-	private float monthlyPay; // Yes, I'm experimenting with data types. So what?!
+	/*	private byte age;
+	private float monthlyPay; // Yes, I'm experimenting with data types. So what?!*/
+	private int age;
+	private int monthlyPay; // No data types for me. Move on.
 	
-	public void Staff (String name, String profession, byte age, float monthlyPay){
+	public Professional (String name, String profession, int age, int monthlyPay){
 		this.name = name;
 		this.profession = profession;
 		this.age = age;
