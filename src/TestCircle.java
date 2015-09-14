@@ -2,7 +2,7 @@ public class TestCircle { //Naming after the function is nothing new to me. Octa
 	public static void main(String[] args) { //ok, caps, no caps, brackets, braces and parenthesis. Not my friends.
 		Circle c1 = new Circle();
 		//AFAIK, I name (as c1) start and instance (as a new Circle) of the class Circle.
-		System.out.println("The circle c1 has a radius of " //Makes morde sense to state which circle.
+		System.out.println("The circle c1 has a radius of " //Made more sense to state which circle.
 				+c1.getRadius()+" and area of "+ c1.getArea());
 		
 		// Now, get rid of defaults and start inputing variables

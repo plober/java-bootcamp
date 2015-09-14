@@ -1,4 +1,4 @@
-public class Circle{ // previously 'touched' the cicle.java from command line. Still unsure of how to create it by Eclipse
+public class Circle{ // previously 'touched' the Cicle.java from command line. Still unsure of how to create it by Eclipse
 	//Being told that this 'private' variables are only seeable from within THIS class
 	private double radius;
 	private String color; 	// Would it make sense to initialize the color ("red") 
