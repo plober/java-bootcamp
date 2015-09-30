@@ -10,7 +10,7 @@ public class TestKey02{ // Checking current naming :)
 		Igloo.setPlaces(1); //coz, you know, round.
 		System.out.println(Igloo.toString());
 		
-		Building Shack = new Building(2, "wood", 4); //Defining the object though its initial calling 
+		Building Shack = new Building(2, "wood", 4); //Defining the object through its initial calling 
 		System.out.println(Shack.toString());
 		}
 	}
