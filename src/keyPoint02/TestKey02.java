@@ -1,14 +1,16 @@
 package keyPoint02;
+
 public class TestKey02{ // Checking current naming :)
-	public static void main(String[] args) { // I think it's a mess worth of conditional recipients :P
-		KeyPoint02 House = new KeyPoint02();
-		System.out.println(House.toString()); // this one is the general one
+	public static void main(String[] args) { // I think it's a mess worth of conditional recipients
+		Building House = new Building();
+		System.out.println(House.toString()); // this one is the general, vanilla one
 		
-		KeyPoint02 SecondHouse = new KeyPoint02(5);
-		System.out.println(SecondHouse.toString()); // Should have 5 inhabitants
+		Building Igloo = new Building(); // let's start calling names
+		Igloo.setMaterial("ice"); //It only made sense
+		Igloo.setPlaces(1); //coz, you know, round.
+		System.out.println(Igloo.toString());
 		
-		KeyPoint02 ThirdHouse = new KeyPoint02(2, 7);
-		System.out.println(ThirdHouse.toString()); // Should have 7 inhabitants and 2 rooms
-		
+		Building Shack = new Building(2, "wood", 4); //Defining the object though its initial calling 
+		System.out.println(Shack.toString());
+		}
 	}
-}
